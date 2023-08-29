@@ -1,0 +1,461 @@
+[
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 550,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+         "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/vh704Dr/20230207-164715-0000.png", "largeImage": "https://i.ibb.co/vh704Dr/20230207-164715-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/cgDvrVK/20230207-164551-0000.png", "largeImage": "https://i.ibb.co/cgDvrVK/20230207-164551-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/SXSvvQn/20230207-164443-0000.png", "largeImage": "https://i.ibb.co/SXSvvQn/20230207-164443-0000.png" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 570,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/tXqNQWC/20230206-231059-0000.png", "largeImage": "https://i.ibb.co/tXqNQWC/20230206-231059-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png", "largeImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/CbvNHhf/20230206-231858-0000.png", "largeImage": "https://i.ibb.co/CbvNHhf/20230206-231858-0000.png" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 500,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+              "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/gTFpPSQ/20230207-164320-0000.png", "largeImage": "https://i.ibb.co/gTFpPSQ/20230207-164320-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png", "largeImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/b7fsYCf/20230205-224409-0000.png", "largeImage": "https://i.ibb.co/b7fsYCf/20230205-224409-0000.png" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 500,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/5YthqfR/20230205-010212-0000.png", "largeImage": "https://i.ibb.co/5YthqfR/20230205-010212-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/4g4RxLS/20230205-003845-0000.png", "largeImage": "https://i.ibb.co/4g4RxLS/20230205-003845-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/RcFrZjL/20230205-002357-0000.png", "largeImage": "https://i.ibb.co/RcFrZjL/20230205-002357-0000.png" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 700,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/XWs03nP/shops-9.webp", "largeImage": "https://i.ibb.co/XWs03nP/shops-9.webp" },
+            { "id": 2, "smallImage": "https://i.ibb.co/b63sjQN/shops-1.webp", "largeImage": "https://i.ibb.co/b63sjQN/shops-1.webp" },
+            { "id": 3, "smallImage": "https://i.ibb.co/L1D3WKb/shops-5.webp", "largeImage": "https://i.ibb.co/L1D3WKb/shops-5.webp" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 700,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/yS2XkYT/discount-9.webp", "largeImage": "https://i.ibb.co/yS2XkYT/discount-9.webp" },
+            { "id": 2, "smallImage": "https://i.ibb.co/3cBsJD4/discount-4.webp", "largeImage": "https://i.ibb.co/3cBsJD4/discount-4.webp" },
+            { "id": 3, "smallImage": "https://i.ibb.co/YQbBxnZ/discount-5.webp", "largeImage": "https://i.ibb.co/YQbBxnZ/discount-5.webp" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 710,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/rwQ0X4g/discount-8.webp", "largeImage": "https://i.ibb.co/rwQ0X4g/discount-8.webp" },
+            { "id": 2, "smallImage": "https://i.ibb.co/4VX6cTj/discount-7.webp", "largeImage": "https://i.ibb.co/4VX6cTj/discount-7.webp" },
+            { "id": 3, "smallImage": "https://i.ibb.co/ZJCYTV1/discount-3.webp", "largeImage": "https://i.ibb.co/ZJCYTV1/discount-3.webp" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 710,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/sqnT3K4/discount-1.webp", "largeImage": "https://i.ibb.co/sqnT3K4/discount-1.webp" },
+            { "id": 2, "smallImage": "https://i.ibb.co/BrPWdv8/flash-2.webp", "largeImage": "https://i.ibb.co/BrPWdv8/flash-2.webp" },
+            { "id": 3, "smallImage": "https://i.ibb.co/FgHTy71/flash-3.webp", "largeImage": "https://i.ibb.co/FgHTy71/flash-3.webp" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 710,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/NKhVXgF/shops-7.webp", "largeImage": "https://i.ibb.co/NKhVXgF/shops-7.webp" },
+            { "id": 2, "smallImage": "https://i.ibb.co/HTb9BXg/shops-4.webp", "largeImage": "https://i.ibb.co/HTb9BXg/shops-4.webp" },
+            { "id": 3, "smallImage": "https://i.ibb.co/0ckpnM1/slide-1.png", "largeImage": "https://i.ibb.co/FgHTy71/flash-3.webp" }
+          
+        ]
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 750,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/tXqNQWC/20230206-231059-0000.png", "largeImage": "https://i.ibb.co/tXqNQWC/20230206-231059-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png", "largeImage": "https://i.ibb.co/jJDsZSq/20230206-230750-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/CbvNHhf/20230206-231858-0000.png", "largeImage": "https://i.ibb.co/CbvNHhf/20230206-231858-0000.png" }
+          
+        ]
+            
+    },
+    {
+        "name": "Slides Slippers Sandal",
+        "description": "This is an example product.",
+        "price": 750,
+        "category": "slipper",
+        "color": "Black",
+        "sizes": [
+            {
+                "size": "36"
+            },
+            {
+                "size": "38"
+            },
+            {
+                "size": "40"
+            },
+            {
+                "size": "42"
+            }
+        ],
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "JohnDoe",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "user": "JaneSmith",
+                "rating": 4,
+                "comment": "Good quality."
+            }
+        ],
+        "images" : [
+            { "id": 1, "smallImage": "https://i.ibb.co/vh704Dr/20230207-164715-0000.png", "largeImage": "https://i.ibb.co/vh704Dr/20230207-164715-0000.png" },
+            { "id": 2, "smallImage": "https://i.ibb.co/cgDvrVK/20230207-164551-0000.png", "largeImage": "https://i.ibb.co/cgDvrVK/20230207-164551-0000.png" },
+            { "id": 3, "smallImage": "https://i.ibb.co/SXSvvQn/20230207-164443-0000.png", "largeImage": "https://i.ibb.co/SXSvvQn/20230207-164443-0000.png" }
+          
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

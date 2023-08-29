@@ -1,0 +1,101 @@
+[
+    {
+      "discount": 50,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Shoes",
+      "price": 100,
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+    },
+    {
+      "discount": 40,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Watch",
+      "price": 20,   
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+     },
+    {
+      "discount": 40,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Smart Mobile Black",
+      "price": 200,
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfortable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+      
+    },
+    {
+      "discount": 40,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Smart Watch Black",
+      "price": 50,   
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+     },
+    {
+      "discount": 50,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Shoes",
+      "price": 100,
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+    },
+    {
+      "discount": 50,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Shoes",
+      "price": 100,
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+    },
+    {
+      "discount": 50,
+      "image": [
+        "https://i.ibb.co/x1C6rs0/flash-1.webp",
+        " https://i.ibb.co/3yVykxL/watch-2.webp",
+        "https://i.ibb.co/GFnQpds/watch-1.webp"
+      ],
+      "name": "Shoes",
+      "price": 100,
+      "status":"shipping",
+      "Details":"Sliper Shoes Good comfartable",
+      "size":{"1" :"42", "2": "40", "3": "44"},
+      "Product-code":"Sh-1001"
+    }
+  ]
