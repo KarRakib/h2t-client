@@ -34,7 +34,7 @@ const MyOrderView = () => {
                                                     <div className="grid grid-cols-5 gap-2">
                                                         <div className="col-span-1">
                                                             <img
-                                                                src={order?.images}
+                                                                src={order?.images[0]?.smallImage}
                                                                 className="w-20 h-20"
                                                                 alt="Phone"
                                                             />

@@ -23,7 +23,7 @@ const PaymentPage = () => {
         //     const name = data.firsName
         //     console.log(element.name += 'kar');
         // });
-        fetch('https://h2t-server.vercel.app/add-order', {
+        fetch(' https://h2t-server.vercel.app/add-order', {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify({ email: user.email, cartItems, data,order: orderNumber,

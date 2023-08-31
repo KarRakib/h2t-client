@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import HeroBanner from './HeroBanner';
-import Product from './Product';
 import { useState } from 'react';
 import axios from 'axios';
+import BestProduct from './BestProduct';
 
 const Home = () => {
   const [datas, setDatas] = useState([])
@@ -25,7 +25,7 @@ useEffect(()=>{
       </div>
       <div className='marquee'>
         <div className='products-container gap-8 maylike-products-container track '>
-        {datas.map((product) => <Product key={product._id} product={product} />)}
+        {datas.map((product) => <BestProduct key={product._id} product={product} />)}
         </div>
       </div>
     </div>

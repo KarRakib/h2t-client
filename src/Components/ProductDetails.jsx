@@ -13,6 +13,7 @@ import { PhotoProvider, PhotoView } from 'react-photo-view';
 
 // eslint-disable-next-line react/prop-types
 const ProductDetails = ({ products }) => {
+    console.log("details",products);
     const { user } = useContext(UserContext)
     const productDetails = useLoaderData();
     const [selectedSize, setSelectedSize] = useState(false);
@@ -122,7 +123,9 @@ const ProductDetails = ({ products }) => {
                 <h2>You may also like</h2>
                 <div className="marquee">
                     <div className="maylike-products-container track">
-                     
+                     {/* {
+                        products.map(items=>console.log(items.images))
+                     } */}
                         {products?.map((item) => (
                             <Product key={item._id} product={item} />
                         ))}

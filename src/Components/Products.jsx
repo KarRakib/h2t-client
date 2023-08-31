@@ -18,7 +18,7 @@ const Products = ({ products }) => {
                                     width={250}
                                     height={250}
                                     // eslint-disable-next-line react/prop-types
-                                    src={product?.images[0]?.smallImage} alt="" srcSet="" />
+                                    src={products[0].images[0].smallImage} alt="" srcSet="" />
                             </Link>
                             <div className='flex justify-between'>
                                 <p className='product-name'>{product?.name}</p>
