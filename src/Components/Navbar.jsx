@@ -10,8 +10,7 @@ const Navbar = () => {
     const { showCart, setShowCart, totalQuantity } = useContext(AddContext)
     const { user, userSignOut } = useContext(UserContext)
     const [isAdmin] = useAdmin(user?.email)
-    console.log(import.meta.env.Name);
-    console.log('nav', user?.email, isAdmin);
+       console.log('nav', user?.email, isAdmin);
     const handleSignOut = () => {
 
         userSignOut()
